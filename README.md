@@ -75,6 +75,6 @@
 Simply open `index.html` in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari):
 ```bash
 # Double-click index.html or open via command line:
-start C:\Users\shibu\.gemini\antigravity\scratch\artemis-iv\index.html
+start (File Directory)
 ```
 No installation, npm build, or web server required!
